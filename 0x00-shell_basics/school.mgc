@@ -1,1 +1,2 @@
-file -m SCHOOL -C
+file -C -m
+0 String SCHOOL
