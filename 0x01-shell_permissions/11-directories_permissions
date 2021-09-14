@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod g=x, 0=x
+chmod g=x, 0=x -R  ./*
