@@ -1,0 +1,4 @@
+#!/bin/bash
+export BINARY=10100111001
+ibase=10
+obase=2
