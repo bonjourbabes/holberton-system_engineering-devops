@@ -1,2 +1,2 @@
 #!/bin/bash
-prinft | tr -s 'oo'
+printf [a..z] [a..z] | grep -v 'oo'
