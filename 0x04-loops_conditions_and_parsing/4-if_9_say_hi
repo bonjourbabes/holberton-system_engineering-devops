@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#comment
 x="0"
 while (( x < 10 ))
 do
