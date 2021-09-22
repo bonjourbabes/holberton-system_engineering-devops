@@ -2,5 +2,5 @@
 #comment
 for i in *
 do
-    echo "$i" | tr -d '-' | tr -d [:digit:] 
-      done 
+echo "$i" | tr -d '-' | tr -d '0123456789' 
+done 
