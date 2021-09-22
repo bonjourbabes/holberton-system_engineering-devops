@@ -4,11 +4,11 @@ x=0
 while (( x < 10 ))
 do
     echo Holberton School
-    if (( x == 3 ))
+    if (( x == 2 ))
     then
        echo bad luck
     fi
-    if (( x == 8 ))
+    if (( x == 7 ))
     then
 	echo good luck
     fi
