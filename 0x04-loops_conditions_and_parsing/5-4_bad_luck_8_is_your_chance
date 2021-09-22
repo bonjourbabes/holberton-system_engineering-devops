@@ -1,6 +1,6 @@
 #!/usr/bin/env bash                                                                                               
 #comment
-x=0
+x=1
 while (( x < 10 ))
 do
     echo Holberton School
