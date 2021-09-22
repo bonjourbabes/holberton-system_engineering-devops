@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+h=0
+m=0
+
+while (( h < 12 ))
+do
+
