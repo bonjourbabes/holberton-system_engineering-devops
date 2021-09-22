@@ -1,0 +1,16 @@
+#!/usr/bin/env bash                                                                                               
+
+x="0"
+while [ $x -lt 10 ]
+do
+    echo Holberton School
+    x=$[$x+1]
+    if (( $x == 3 ))
+    then
+       echo bad luck
+    fi
+    if (( $x == 8 ))
+    then
+	echo good luck
+   fi
+done
