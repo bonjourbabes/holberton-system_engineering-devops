@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #Comment
-trap SIGTERM
+trap 'echo "I am invincible!!!"' SIGTERM
 while true
 do
         echo "To infinity and beyond"
