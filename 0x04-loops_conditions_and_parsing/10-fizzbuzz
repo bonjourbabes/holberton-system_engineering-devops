@@ -19,5 +19,4 @@ do
 	echo "$x"
 	((x++))
 fi	  
-    ((x++))
 done
