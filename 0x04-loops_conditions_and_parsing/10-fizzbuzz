@@ -1,2 +1,7 @@
 #!/usr/bin/env bash
 #Comment
+x=1
+while [ $x -lt 21 ]
+do
+    ((x++))
+done
