@@ -1,0 +1,2 @@
+#!/usr/bin/env bash                                                                                                                                          # Write a Bash script that displays To infinity and beyond indefinitely.
+kill -9 (pidof 4-to_infinity_and_beyond)
