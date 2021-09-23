@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 #code to stop number six process
-kill "$(pgrep -f "7-highlander")"
+pkill "$(pgrep -f "7-highlander")"
